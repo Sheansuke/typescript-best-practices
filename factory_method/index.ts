@@ -1,5 +1,10 @@
 import { SheansukeORM } from "./orm";
 
+
+/** 
+ * This is and example using factory and abstract factory pattern
+ */
+
 export const factoryMethodExample = () => {
   // ===================== ===================== ===================== ===================== ===================== ===================== =====================
   // POSTGRESQL EXAMPLE
